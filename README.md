@@ -1,55 +1,54 @@
 <h1 align="center">Hi 👋, I'm Siham Birhanu</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="center">
-  <em>
-    Self-taught developer who learns by building projects, fixing bugs,
-    and solving real-world problems with code.
-  </em>
+  Passionate about learning by building real projects, solving problems,
+  and improving every day through practice.
 </p>
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 Computer Science student at **Adama Science and Technology University**
-- 💻 Interested in **Web Development & Software Engineering**
-- 🛠️ Built projects like a **Food Ordering Web Application**
-- 📚 Learn by reading documentation, debugging, and asking questions
-- 🚀 Goal: Become a skilled and professional software developer
+## 🧠 About Me
+- 🎓 Software Engineering student at **Adama Science and Technology University**
+- 💻 Focused on **Web Development**
+- 📚 Self-taught learner (docs, debugging, asking questions)
+- 🚀 Goal: Become a professional software developer through real-world experience
 
 ---
 
-### 🧰 Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-gray?style=for-the-badge&logo=github" />
+## 🧰 Tech Stack & Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,vscode" />
 </p>
 
 ---
 
-### 📌 Featured Project
-**🍔 Food Ordering Web App**
-- Responsive UI using HTML & CSS  
-- Dynamic interactions with JavaScript  
-- Implemented cart logic and product pages  
-- Built while self-learning and solving real bugs
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+## 🌐 Connect with Me
+<p align="center">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://github.com/sihambirhanu24">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---
 
-### 🤝 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: your-email@example.com
+## 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sihambirhanu24&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <strong>“Learning by building. Growing by solving problems.”</strong>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihambirhanu24&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <strong>“Learn. Build. Debug. Repeat.”</strong>
 </p>
