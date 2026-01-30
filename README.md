@@ -46,9 +46,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihambirhanu24&theme=tokyonight" />
 </p>
-
----
-
-<p align="center">
-  <strong>“Learn. Build. Debug. Repeat.”</strong>
-</p>
