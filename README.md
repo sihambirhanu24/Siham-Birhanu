@@ -18,7 +18,7 @@
 
 ## 🧰 Tech Stack & Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,vscode,java,c++,python" />
 </p>
 
 ---
@@ -38,11 +38,6 @@
 
 ---
 
-## 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sihambirhanu24&show_icons=true&theme=tokyonight" />
-</p>
+## 📈 GitHub Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sihambirhanu24&theme=github-dark&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sihambirhanu24&theme=tokyonight" />
-</p>
